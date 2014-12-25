@@ -12,6 +12,8 @@ Product Category based sitemap for easy indexing
 
 == Description ==
 
+<a href="http://codecanyon.net/user/phppoet/portfolio?ref=phppoet">Check our Premium Woocommerce Plugins</a>
+
 Overview
 woocommerce category sitemap allows you to split sitemap of your woocommerce powered site into multiple sitemaps by creating separate xml and/or gz sitemap for each category with category sitemap index file which will link all the category sitemaps. Along with it you will also have more control over priority and change frequency of each product, automatic sitemap generation ,automatic ping to search engines with some more extra features like
 
