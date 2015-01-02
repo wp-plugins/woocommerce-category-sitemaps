@@ -5,7 +5,7 @@
   Plugin URI: http://phppoet.com
   Description: Woocommerce Category based sitemaps plugin lets you allow to separate xml and/or xml.gz sitemap for all your cateogories . 
   Version: 1.0.2
-  Author: Parbat Patel
+  Author: Phppoet
   Author URI: http://phppoet.com
   
 
